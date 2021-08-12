@@ -1,0 +1,7 @@
+O desafio é criar um arquivo z que, quando se faz um cat acima, exiba um "Z" 
+seguido de uma quebra de linha conforme o exemplo:
+
+?>cat z
+Z
+?>
+
